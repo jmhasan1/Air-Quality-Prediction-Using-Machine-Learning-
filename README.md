@@ -1,4 +1,4 @@
-This project represents a comprehensive implementation of the Machine Learning Project Lifecycle to address the critical issue of air pollution. By analyzing historical daily measurements of pollutants across various Indian cities, I developed a multi-model forecasting system to predict PM2.5 levels—the most significant indicator of air quality.
+**This project represents a comprehensive implementation of the Machine Learning Project Lifecycle to address the critical issue of air pollution. By analyzing historical daily measurements of pollutants across various Indian cities, I developed a multi-model forecasting system to predict PM2.5 levels—the most significant indicator of air quality.**
 
 # 🌍 Air Quality Prediction Using Machine Learning
 
