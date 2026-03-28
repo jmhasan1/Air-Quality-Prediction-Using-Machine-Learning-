@@ -1,2 +1,12 @@
-/.ipynb_checkpoints
-/anaconda_projects
+.ipynb_checkpoints/
+anaconda_projects/
+
+
+# Ignore local environment folders
+venv/
+env/
+.env
+
+# Ignore python cache
+__pycache__/
+
