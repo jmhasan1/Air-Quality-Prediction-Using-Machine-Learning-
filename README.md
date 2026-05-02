@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Models](https://img.shields.io/badge/Models-RF%20%7C%20Prophet%20%7C%20LSTM-orange)
+
 **This project represents a comprehensive implementation of the Machine Learning Project Lifecycle to address the critical issue of air pollution. By analyzing historical daily measurements of pollutants across various Indian cities, I developed a multi-model forecasting system to predict PM2.5 levels—the most significant indicator of air quality.**
 
 # 🌍 Air Quality Prediction Using Machine Learning
