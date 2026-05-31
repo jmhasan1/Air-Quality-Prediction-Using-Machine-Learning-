@@ -10,3 +10,5 @@ env/
 # Ignore python cache
 __pycache__/
 
+*.pkl
+*.keras
